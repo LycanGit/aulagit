@@ -8,5 +8,6 @@
 <body>
     <h1>Teste</h1>
     <a href="contatos.php">teste de contatos</a>
+    <h2>teste dois</h2>
 </body>
 </html>
